@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](File:Swaraj Paul Baruah addressing copyright-related questions at Creative Commons India Chapter meetup1 Bengaluru.jpg "Swaraj Paul Baruah, one of the participants addressing some of the copyright-related questions in the Bengaluru meeting.")
 
 The first **Creative Commons India chapter** (often written as CC-India) restructuring meeting (since the rollout of Creative Commons Global Network - CCGN) was organized by volunteers in Bengaluru, Delhi and [online](https://meet.jit.si/cc-india) on September 1. The primary focus of the meeting was inline with the broader agenda mentioned [here](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Guide_for_creating_a_chapter.md#step-3-convene-the-first-meeting) in the guide for establishing a new chapter i.e. to reach out to multiple stakeholders locally and encourage them to become members of the Creative Commons Global Network and help restructure the CC-India chapter.
 
