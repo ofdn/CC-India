@@ -59,3 +59,6 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 * [India-specific CC license](https://creativecommons.org/licenses/by-sa/2.5/in/)
 * [Open Government Data Platform India](https://data.gov.in/)
 * [Permissible use of data in India](https://data.gov.in/government-open-data-license-india)
+
+# Other links:
+* [Images clicked by participants can be uploaded here](https://commons.wikimedia.org/wiki/Category:CC-India_meeting_2018-09-01)
