@@ -1,8 +1,9 @@
 <p align="center">
     <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Swaraj_Paul_Baruah_addressing_copyright-related_questions_at_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg/640px-Swaraj_Paul_Baruah_addressing_copyright-related_questions_at_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg">
-</p>
 
 ###### *Swaraj Paul Baruah, one of the participants addressing some of the copyright-related questions in the Bengaluru meeting*.
+</p>
+
 
 The first **Creative Commons India chapter** (often written as CC-India) restructuring meeting (since the rollout of Creative Commons Global Network - CCGN) was organized by volunteers in Bengaluru, Delhi and [online](https://meet.jit.si/cc-india) on September 1. The primary focus of the meeting was inline with the broader agenda mentioned [here](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Guide_for_creating_a_chapter.md#step-3-convene-the-first-meeting) in the guide for establishing a new chapter i.e. to reach out to multiple stakeholders locally and encourage them to become members of the Creative Commons Global Network and help restructure the CC-India chapter.
 
@@ -14,12 +15,17 @@ The preparation of the meeting started a little over a month where three volunte
 Active [social media](https://twitter.com/ofdnorg/status/1027582777388986369) and [media outreach](https://thewire.in/tech/as-creative-commons-restructures-globally-what-should-its-future-in-india-look-like) were made by volunteers to reach out to more people. (*posters and banners designed can be found [here](https://github.com/ofdn/marks/tree/master/CC-India)*) As an effect of this, 120 people signed up to join in the meeting both physically and online. 33% of the participants who signed up represented civil society, 28% represented academia where 14% represented government and public sector organizations.
 
 # Meeting:
-The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both in Bengaluru and Delhi.
+The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both from Bengaluru and Delhi (remotely).
 
-## Consensus made and way forward:
+<img align="right" width="320" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg/320px-Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg">
+
+## Consensus made and tasklist:
 * As there are only 9 CCGN members at the moment most agreed that it would be useful for everyone to reach out to more people and grow the member community on CCGN at the moment
+  - [ ] Reachout to more people to grow the CCGN member base from India
 * Once the community reaches critical mass by mid/end October, there can be self-nomination from the members and an online voting can be made to choose the Representative and a Lead
+  - [ ] Asking members to self-nominate and organize an e-ballot-based election to identify the "Representative" and "Lead" in mid/late October
 * Participants in Bengaluru brainstormed about the areas they are interested (see separate section below) to contribute to CC going forward based on their expertise. Most favored the idea of having leaders for each section on a rotational basis though the timeframe for such informal area leaders were not made. The decision is parked for later.
+  - [ ] Keeping the door open to CCGN members and non-members so that more volunteers sign up for different activities (advocacy, outreach, lobbying, OER development apart from communications channel management are some of the discussed tasks by Bengaluru community - *this task includes the point belowe as well*)
 * Some of the organizational works — including content and design for website, managing mailing list, creating and managing a Telegram group — already has interested individuals where everyone showed interest to reach out to more people and help others join CCGN
 
 ### Areas of interest and interested leads:
