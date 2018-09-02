@@ -18,9 +18,9 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 
 ### Areas of interest and interested leads:
 * Website coordination:
-* Visual comms: Veethika
-* Content: Sahana and Shobha
-* Tech: Santosh
+- Visual comms: Veethika
+- Content: Sahana and Shobha
+- Tech: Santosh
 * Mailing list mopderation: Saswat
 * Telegram: Santosh
 * Work areas:
