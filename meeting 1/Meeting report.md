@@ -15,3 +15,25 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 * Once the community reaches critical mass by mid/end October, there can be self-nomination from the members and an online voting can be made to choose the Representative and a Lead
 * Participants in Bengaluru brainstormed about the areas they are interested (see separate section below) to contribute to CC going forward based on their expertise. Most favored the idea of having leaders for each section on a rotational basis though the timeframe for such informal area leaders were not made. The decision is parked for later.
 * Some of the organizational works — including content and design for website, managing mailing list, creating and managing a Telegram group — already has interested individuals where everyone showed interest to reach out to more people and help others join CCGN
+
+## Detailed discussions:
+### Areas of interest and interested leads:
+* Website coordination:
+* Visual comms: Veethika
+* Content: Sahana and Shobha
+* Tech: Santosh
+* Mailing list mopderation: Saswat
+* Telegram: Santosh
+* Work areas:
+- Open Education - OER, text, game OER
+- Open Access
+- Open Data
+- Advocacy/outreach: Gayatree, Sridhar Gutam and Sharda
+-- Government: Subhashish
+-- Savithri (academics and whereever else)
+-- Sarita
+- Workshops in art/design institutions: Veethika, Arumani, Suraj and Akash
+- Resources for licenses: Swaraj
+- Advocacy for resarch and academic publication: Sridhar Gutam, Shobha, Swaraj
+- OER for outreach:
+-- Design: Akash, Parvathy, Ashish
