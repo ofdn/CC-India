@@ -10,7 +10,7 @@ Active [social media](https://twitter.com/ofdnorg/status/1027582777388986369) an
 # Meeting:
 The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both in Bengaluru and Delhi.
 
-## Important consensus made
+## Consensus made and way forward:
 * As there are only 9 CCGN members at the moment most agreed that it would be useful for everyone to reach out to more people and grow the member community on CCGN at the moment
 * Once the community reaches critical mass by mid/end October, there can be self-nomination from the members and an online voting can be made to choose the Representative and a Lead
 * Participants in Bengaluru brainstormed about the areas they are interested (see separate section below) to contribute to CC going forward based on their expertise. Most favored the idea of having leaders for each section on a rotational basis though the timeframe for such informal area leaders were not made. The decision is parked for later.
