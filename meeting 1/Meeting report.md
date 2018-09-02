@@ -38,5 +38,13 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 - OER for outreach:
 -- Design: Akash, Parvathy, Ashish
 
-# Questions/discussions raised:
+# Questions raised/discussions:
 *  Why the previous stuctures failed? (Savithri: *Earlier there were organisations as affiliates. People involved with CC through the organisations, when they left the organisations couldn't continue to contribute as an individual*)
+
+
+# Resources shared during meeting:
+* [What is a CC chapter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md)
+* [How to establish a chapter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/Guide_for_creating_a_chapter.md)
+* [India-specific CC license](https://creativecommons.org/licenses/by-sa/2.5/in/)
+* [Open Government Data Platform India](https://data.gov.in/)
+* [Permissible use of data in India](https://data.gov.in/government-open-data-license-india)
