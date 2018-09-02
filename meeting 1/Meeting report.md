@@ -38,9 +38,9 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 - OER for outreach:
 -- Design: Akash, Parvathy, Ashish
 
-# Questions raised/discussions:
-*  Why the previous stuctures failed? (Savithri: *Earlier there were organisations as affiliates. People involved with CC through the organisations, when they left the organisations couldn't continue to contribute as an individual*)
-
+# Discussions:
+*  **Question**: Why the previous stuctures failed? (Savithri: *Earlier there were organisations as affiliates. People involved with CC through the organisations, when they left the organisations couldn't continue to contribute as an individual*)
+*  **Challenge**: Explaining to my org. about using CC license is a challenge. How do I address it? (A: *There is over enforcement of copyright which make work almost nonusable. Individuals at times don't know. Showing organizations the real impact.*)
 
 # Resources shared during meeting:
 * [What is a CC chapter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md)
