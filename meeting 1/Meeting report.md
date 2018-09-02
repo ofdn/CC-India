@@ -37,3 +37,6 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 - Advocacy for resarch and academic publication: Sridhar Gutam, Shobha, Swaraj
 - OER for outreach:
 -- Design: Akash, Parvathy, Ashish
+
+# Questions/discussions raised:
+*  Why the previous stuctures failed? (Savithri: *Earlier there were organisations as affiliates. People involved with CC through the organisations, when they left the organisations couldn't continue to contribute as an individual*)
