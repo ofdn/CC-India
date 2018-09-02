@@ -8,4 +8,10 @@ The preparation of the meeting started a little over a month where three volunte
 Active social media and media outreach were made by volunteers to reach out to more people. As an effect of this, 120 people signed up to join in the meeting both physically and online. 33% of the participants who signed up represented civil society, 28% represented academia where 14% represented government and public sector organizations.
 
 # Meeting:
-The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi.
+The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both in Bengaluru and Delhi.
+
+## Important consensus made
+* As there are only 9 CCGN members at the moment most agreed that it would be useful for everyone to reach out to more people and grow the member community on CCGN at the moment
+* Once the community reaches critical mass by mid/end October, there can be self-nomination from the members and an online voting can be made to choose the Representative and a Lead
+* Participants in Bengaluru brainstormed about the areas they are interested (see separate section below) to contribute to CC going forward based on their expertise. Most favored the idea of having leaders for each section on a rotational basis though the timeframe for such informal area leaders were not made. The decision is parked for later.
+* Some of the organizational works — including content and design for website, managing mailing list, creating and managing a Telegram group — already has interested individuals where everyone showed interest to reach out to more people and help others join CCGN
