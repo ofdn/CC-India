@@ -3,9 +3,9 @@ The Creative Commons India chapter (often written as CC-India) restructuring mee
 21 individuals from Bengaluru and 4 from Delhi participated, and 2 participants joined online. The meeting was a bit longer than 2 hours and the minutes were captured in an [Etherpad](https://etherpad.wikimedia.org/p/ccindia1).
 
 ## Preparation:
-The preparation of the meeting started a little over a month where three volunteers who were the initial CCGN members with guidance from Simeon Oriko, Community Manager at Creative Commons started planning for the first meeting.
+The preparation of the meeting started a little over a month where three volunteers — Savithri Singh, Subhashish Panigrahi and Veethika Mishra — who were the initial CCGN members with guidance from Simeon Oriko, Community Manager at Creative Commons started planning for the first meeting.
 
-Active social media and media outreach were made by volunteers to reach out to more people. As an effect of this, 120 people signed up to join in the meeting both physically and online. 33% of the participants who signed up represented civil society, 28% represented academia where 14% represented government and public sector organizations.
+Active [social media](https://twitter.com/ofdnorg/status/1027582777388986369) and [media outreach](https://thewire.in/tech/as-creative-commons-restructures-globally-what-should-its-future-in-india-look-like) were made by volunteers to reach out to more people. (*posters and banners designed can be found [here](https://github.com/ofdn/marks/tree/master/CC-India)*) As an effect of this, 120 people signed up to join in the meeting both physically and online. 33% of the participants who signed up represented civil society, 28% represented academia where 14% represented government and public sector organizations.
 
 # Meeting:
 The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both in Bengaluru and Delhi.
