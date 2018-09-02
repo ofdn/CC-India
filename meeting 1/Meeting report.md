@@ -16,7 +16,6 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 * Participants in Bengaluru brainstormed about the areas they are interested (see separate section below) to contribute to CC going forward based on their expertise. Most favored the idea of having leaders for each section on a rotational basis though the timeframe for such informal area leaders were not made. The decision is parked for later.
 * Some of the organizational works — including content and design for website, managing mailing list, creating and managing a Telegram group — already has interested individuals where everyone showed interest to reach out to more people and help others join CCGN
 
-## Detailed discussions:
 ### Areas of interest and interested leads:
 * Website coordination:
 * Visual comms: Veethika
@@ -40,6 +39,7 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 # Discussions:
 *  **Question**: Why the previous stuctures failed? (Savithri: *Earlier there were organisations as affiliates. People involved with CC through the organisations, when they left the organisations couldn't continue to contribute as an individual*)
 *  **Challenge**: Explaining to my org. about using CC license is a challenge. How do I address it? (A: *There is over enforcement of copyright which make work almost nonusable. Individuals at times don't know. Showing organizations the real impact.*)
+* **Question**: Are there good examples like the [National Repository of Open Educational Resources](https://nroer.gov.in/welcome) (NROER) project
 
 # Resources shared during meeting:
 * [What is a CC chapter](https://github.com/creativecommons/global-network-strategy/blob/master/docs/chapters-standards.md)
