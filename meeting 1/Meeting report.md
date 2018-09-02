@@ -29,8 +29,8 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 - Open Access
 - Open Data
 - Advocacy/outreach: Gayatree, Sridhar Gutam and Sharda
- - Government: Subhashish
- - Savithri (academics and whereever else), Sarita
+  - Government: Subhashish
+  - Savithri (academics and whereever else), Sarita
 - Workshops in art/design institutions: Veethika, Arumani, Suraj and Akash
 - Resources for licenses: Swaraj
 - Advocacy for resarch and academic publication: Sridhar Gutam, Shobha, Swaraj
