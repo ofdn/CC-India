@@ -20,6 +20,7 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 <img align="right" width="320" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg/320px-Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg">
 
 ## Consensus made and tasklist:
+*Anything not listed below only means that it was not discussed on the Sep. 1 meeting. All the other tasks can be created and managed [here](https://github.com/ofdn/CC-India/issues).*
 * As there are only 9 CCGN members at the moment most agreed that it would be useful for everyone to reach out to more people and grow the member community on CCGN at the moment
   - [ ] Reachout to more people to grow the CCGN member base from India
 * Once the community reaches critical mass by mid/end October, there can be self-nomination from the members and an online voting can be made to choose the Representative and a Lead
