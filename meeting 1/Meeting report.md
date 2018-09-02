@@ -60,5 +60,29 @@ The Centre for Internet and Society (CIS) was the venue for the Bengaluru meetin
 * [Open Government Data Platform India](https://data.gov.in/)
 * [Permissible use of data in India](https://data.gov.in/government-open-data-license-india)
 
+# Participants and their interests(Bangalore and Online)
+* Arvind P. -   Interested to know how chapter can benefit orgs using CC licenses
+* Parvathy VR. -  Interested to know more about Creative Commons and how could one contribute
+* Ashish Durgude -  Interested to understand more about CC licenses and become a part of the chapter
+* Suraj Barthy -  Increase awareness about CC licenses learn about copyrighting process in design concepts and music
+* Arjun G. -  Interested to develop the CC communityin India and learn the benefits to orgs adopting this
+* Mira S. -  CC Licenses in the field of education, spreading awareness on access to textbooks and concept of licenses in media/tech
+* Gayathri S. -  To determine how the CC community could possibly elevate and protect IP rights. I'm interested in all means aimed at protecting IP rights not just promoting them
+* Sarada Mahesh -  To learn more about open access to knowledge and CC licensing
+* Sneha PP. -  Interested in learning about open access to cultural heritage, access to knowledge and open content in creative industries
+* Shobha SV. -  Interested in issues related to open knowledge and free culture
+* Saswat Sahu -  I currently run a blog (poetry/travel/stories) and wanted to learn how CC could be helpful
+* Sangam Keshari Senapati -  Interested in knowing more about the copyright rules in India
+* Arumani Muthu J.M. -  To Spread awareness and knowledge about CC licenses and copyrighting to the student community from NID. Also want to become a part of the CC chapter India and help in spreading the same
+* Santosh Shingare -  1) want to know more about CC and how it works, 2) What is difficult types of licenses, how to use and when to use, 3) How I can help spread info about CC licenses
+Swaraj Paul Baruah -  Copyright Policy, Openness, access to knowledge
+* Akash N Chandan - Background - Engineer, designer and urban fellow at IIHS. Interested in knowing more about CC licenses in application of design, content creation of internet. Want to be a part of the community to work towards ethical creative internet
+* Sridhar Gutam -  CC Licenses for journals/scholarly communications. CC licenses for Indian Govt.
+* Sahana Jose -  How to advocate the benefit of CC licenses? How to ensure that CC licenses are not misused? CC Licenses for Social sector
+* Sridhar TR. -  Want to know more about how CC licenses are used in industry/commercial/ IT Companies
+* Rohini
+* Subhashish Panigrahi -  
+* Veethika Mishra -  Interested in exploring CC licenses for creating experimental OER material which could be accessed by under-privileged students across the planet
+
 # Other links:
 * [Images clicked by participants can be uploaded here](https://commons.wikimedia.org/wiki/Category:CC-India_meeting_2018-09-01)
