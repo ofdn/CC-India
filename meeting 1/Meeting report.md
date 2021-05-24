@@ -17,8 +17,6 @@ Active [social media](https://twitter.com/ofdnorg/status/1027582777388986369) an
 # Meeting:
 The Centre for Internet and Society (CIS) was the venue for the Bengaluru meeting where Acharya Narendra Dev College was the the venue for Delhi. CIS kindly hosted a social with snacks and 4 staffers participted both from Bengaluru and Delhi (remotely).
 
-<img align="right" width="320" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg/320px-Veethika_Mishra_introducing_about_Creative_Commons_India_Chapter_meetup1_Bengaluru.jpg">
-
 ## Consensus made and tasklist:
 *Anything not listed below only means that it was not discussed on the Sep. 1 meeting. All the other tasks can be created and managed [here](https://github.com/ofdn/CC-India/issues).*
 * As there are only 9 CCGN members at the moment most agreed that it would be useful for everyone to reach out to more people and grow the member community on CCGN at the moment
